@@ -3,14 +3,22 @@ body{
     margin: 0;
 
 }
-
-.mealStyle {
-
+.header {
+    min-height: 60vh;
+    width: 100%;
+    background-image: url(beautiful-mountains.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+  }
+  
+.weatherStyle {
+    
     margin: 20px;
     padding: 20px;
 }
 
-.mealStyle img {
+.weatherimg {
     width: 200px; 
 }
 
